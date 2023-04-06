@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 0ca35679219111d4884cdfb563e366af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ABC_prev_ui_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 300
+        width: 72
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd172247c822234f8801af72ca08c80
+      internalID: -1513204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 301
+        width: 68
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f5f261dcf2af44b4b93a7a074154e
+      internalID: 1181578664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 301
+        width: 67
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb41efa99fb5f44976c381ff54847b
+      internalID: -2140583728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 301
+        width: 73
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645533e20c115bd498a4f7c101527631
+      internalID: -926117917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 301
+        width: 67
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fbf2ea23b08143bd07ba944449dab
+      internalID: 1998723066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 301
+        width: 66
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f3f8654e1d17a48ad13b655f173483
+      internalID: -1819649589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 301
+        width: 61
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98fd91b8f1e23644a31af74ce25d0cd
+      internalID: -2117693748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 205
+        width: 77
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ecd3eb4be76a44484187ac43efbad8
+      internalID: -853594346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 204
+        width: 44
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d926934921c83942bf0c015b7029dea
+      internalID: 1892793744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 204
+        width: 64
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b307ef3554dea41b2d3e5e389cc4f1
+      internalID: 897757609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 205
+        width: 81
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a2e7b62475fd4493d9ba8211772a0
+      internalID: -1041261685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 204
+        width: 64
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f721938b9a614b916f1ab8aa9f3b6
+      internalID: 378113204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 204
+        width: 84
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b89dc9cc6cf64e92d59d8ae166a7e
+      internalID: 1220646257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 79
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b7d6a1c1b3ea4e852973d87e70bcb
+      internalID: -1506547932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 113
+        width: 68
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7bbc5067ca78f469d85c6b7ba88a4c
+      internalID: 1846165035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 115
+        width: 65
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3522b3f390574341aa77edea9b704d1
+      internalID: -1453576762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 109
+        width: 76
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f40d5b25e7ec4288f9f8bb3d5964f
+      internalID: 1139309547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 113
+        width: 69
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b5b45abc84bc468807f41aad3179b
+      internalID: -1293595486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 114
+        width: 62
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c88e1cc3bf6640b9a64f88d6da670
+      internalID: 2125834240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 114
+        width: 71
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7926abc1f8402f40b554da650b33ef9
+      internalID: 1295171933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 75
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ad203f60796845b2ac41162c632fd
+      internalID: -959294834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 24
+        width: 79
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aae2a29127fc4409e452116194bfc4
+      internalID: 1690695617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 23
+        width: 96
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb88f2bc977cbf41a218f964f7c7a21
+      internalID: -1644417865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 24
+        width: 75
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9393c87e5e62364c8e87d4a60cc86b3
+      internalID: -1676871070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_34
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 23
+        width: 73
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530f3a346533c434a966c62c36ad0f86
+      internalID: -235421874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABC_prev_ui_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 24
+        width: 69
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500c1f38f894e44c91c41c81df70bb8
+      internalID: 1066404757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ABC_prev_ui_18: -1506547932
+      ABC_prev_ui_13: 1892793744
+      ABC_prev_ui_7: -2117693748
+      ABC_prev_ui_32: -1676871070
+      ABC_prev_ui_21: -1453576762
+      ABC_prev_ui_6: -1819649589
+      ABC_prev_ui_12: -853594346
+      ABC_prev_ui_15: -1041261685
+      ABC_prev_ui_19: 1846165035
+      ABC_prev_ui_31: -1644417865
+      ABC_prev_ui_23: -203540452
+      ABC_prev_ui_27: 978909581
+      ABC_prev_ui_33: 2110681608
+      ABC_prev_ui_0: -1513204764
+      ABC_prev_ui_1: 1181578664
+      ABC_prev_ui_8: -1777067466
+      ABC_prev_ui_9: 705347437
+      ABC_prev_ui_35: 1066404757
+      ABC_prev_ui_24: -1293595486
+      ABC_prev_ui_25: 2125834240
+      ABC_prev_ui_26: 1295171933
+      ABC_prev_ui_29: -959294834
+      ABC_prev_ui_2: -2140583728
+      ABC_prev_ui_20: -813083936
+      ABC_prev_ui_4: 1998723066
+      ABC_prev_ui_11: -1322983581
+      ABC_prev_ui_28: -599737291
+      ABC_prev_ui_10: -1922644343
+      ABC_prev_ui_14: 897757609
+      ABC_prev_ui_5: 457382205
+      ABC_prev_ui_34: -235421874
+      ABC_prev_ui_30: 1690695617
+      ABC_prev_ui_16: 378113204
+      ABC_prev_ui_22: 1139309547
+      ABC_prev_ui_17: 1220646257
+      ABC_prev_ui_3: -926117917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
